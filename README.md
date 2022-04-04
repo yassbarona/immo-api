@@ -32,7 +32,7 @@ In order to install this game proceed with the folowing steps:
   
   ## Results
   
-  ![alt text](/assets/Screenshot from 2022-04-04 21-31-51.png)
+  ![alt text](/assets/Screenshot.png)
   
   ### DISCLAMER
   We accept no liabilities for the execution of this code. Stay in school... or not, we don't care.
